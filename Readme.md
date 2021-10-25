@@ -2,10 +2,12 @@
 
 The Web Scraping project which extracts information of WorldCup 2019 from CricInfo Website and present it in various  formats : Excel sheet, pdf score cards.
 
+
 ## Purpose
 - The purpose of this project is to extract information of worldcup 2019 from cricinfo and present that in the form of excel and pdf scorecards
 - The real purpose is to learn how to extract information and get experience with js
 - Another good reason is to have fun by making this cool project.
+
 
 ## Tech Stack and Commands for installing the npm modules:
 - Javascript
