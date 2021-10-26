@@ -9,7 +9,8 @@ The Web Scraping project which extracts information of WorldCup 2019 from CricIn
 - Another good reason is to have fun by making this cool project.
 
 
-## Tech Stack and Commands for installing the npm modules:
+## Tech Stack and Commands for installing the npm modules
+
 - Javascript
 - Node Modules: 
   - **minimist:** Takes the input from command line
